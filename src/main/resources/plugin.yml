@@ -1,0 +1,4 @@
+name: ReadOnly
+version: ${project.version}
+main: net.mcxk.readonly.ReadOnly
+api-version: 1.13
